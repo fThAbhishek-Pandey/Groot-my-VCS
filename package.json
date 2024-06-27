@@ -1,0 +1,25 @@
+{
+  "name": "groot_myvcs",
+  "version": "1.0.0",
+  "description": "\"my own version control system\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fThAbhishek-Pandey/Groot-my-VCS.git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "javascript",
+    "webdevelopment"
+  ],
+  "author": "Abhishek Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fThAbhishek-Pandey/Groot-my-VCS/issues"
+  },
+  "homepage": "https://github.com/fThAbhishek-Pandey/Groot-my-VCS#readme"
+}
